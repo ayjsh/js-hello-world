@@ -4,7 +4,11 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log("Hello World, Welcome Home, I will not work without parentheses or quotation marks but will with a single quote")
+console.log("Hello World, Welcome Home")
+console.log("4")
+console.log(4+6)
+console.log("Quoth the Raven \"Nevermore\"")
 
 /*  
 Next, PLAY! 
